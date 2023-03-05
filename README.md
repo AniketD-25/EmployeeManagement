@@ -1,5 +1,5 @@
  
-#Human Resource Management System
+<h1>  Human Resource Management System  <img width="80" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLMaClDHFStBBs_gNwByUqEMuiQ9m7sBZ7fw&usqp=CAU"/> </h1>
 
 #HOW TO RUN THIS PROJECT?# ###FROM THE IDE:###
 
